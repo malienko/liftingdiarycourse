@@ -28,7 +28,7 @@ export default async function Home() {
             .
           </li>
           <li className="tracking-[-.01em]">
-            Test 123.
+            Immediate change.
           </li>
         </ol>
 
